@@ -14,10 +14,10 @@ const answers = [];
 
 console.log(typeof(answers));
 
-let incr = 10,
-    decr = 10;
-incr ++;
-decr --;
+// let incr = 10,
+//     decr = 10;
+// incr ++;
+// decr --;
 
-console.log(incr);
-console.log(decr);
+// console.log(incr);
+// console.log(decr);
